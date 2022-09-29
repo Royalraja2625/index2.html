@@ -1,2 +1,1 @@
-# index2.html
-new work
+# index2.html.github.io
